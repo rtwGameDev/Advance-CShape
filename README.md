@@ -1,2 +1,2 @@
-# LINQ
-TruyVanCoSoDuLieuC#
+# Advance C#
+
